@@ -1,0 +1,40 @@
+{
+    "language": "AnchorScript",
+    "version": "1.0",
+    "keywords": [
+        "if()",
+        "else()",
+        "for()",
+        "while()",
+        "return()",
+        "func()",
+        "var()",
+        "all",
+        "in",
+        "fir()"
+    ],
+    "operators": [
+        "+",
+        "-",
+        "*",
+        "/",
+        "=",
+        "==",
+        "!=",
+        "<",
+        ">"
+    ],
+    "datatypes": [
+        "div int",
+        "div float",
+        "div str",
+        "div bool"
+    ],
+    "syntax": {
+        "comment": "-",
+        "block_comment_start": "/*",
+        "block_comment_end": "*/",
+        "string_delimiter": "\"",
+        "statement_terminator": ";"
+    }
+}
